@@ -1,6 +1,6 @@
 ---
 title: "Exploratory Data Analysis - White Wine Quality"
-output: html_document
+output: rmarkdown :: github_document
 ---
 
 ```{r Global Options, include=FALSE}
