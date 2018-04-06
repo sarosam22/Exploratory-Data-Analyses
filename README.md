@@ -1,1 +1,1 @@
-# EFolder for all explanatory data analysis projects
+# Folder for all explanatory data analysis projects
